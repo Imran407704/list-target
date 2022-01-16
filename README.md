@@ -4,6 +4,8 @@
 This is a Simple Bash Script For Automating the Process of Generating Wordlists from various tool's like Gau, Waybackrobots, cewl etc..... Very Useful for Bug Bounty Hunters :)
 
 
+This Script inspired by [Kathan Patel](https://twitter.com/KathanP19) Sir Original Video is [here](https://www.youtube.com/watch?v=AF-zp6DROTs)
+
 # How to use ?
 ```
 git clone https://github.com/Imran407704/list-target.git
@@ -16,6 +18,10 @@ chmod +x list-target.sh
 ```
 ```
 ./list-target.sh TARGET.TLD
+```
+All in one Command 
+```
+git clone https://github.com/Imran407704/list-target.git; cd list-target; chmod +x list-target.sh
 ```
 ## Install this tools 1st
 
