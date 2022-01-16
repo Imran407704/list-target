@@ -26,3 +26,24 @@ Then copy all bin file to usr/bin OR usr/local/bin
 ```
 sudo cp /go/bin/go-dork gau /usr/local/bin
 ```
+Please Read this : - 
+1st you install waybackrobots in your tools directory then make alias in bashrc, if you are using zshrc then make alias in zshrc  
+
+```
+nano ~/.bashrc 
+```
+Add this alias when you see some alias like la='ls -A' Remember that your USER directory then 
+```
+waybackrobots='python3 /home/user/tools/waybackrobots.py'
+```
+Update your .bashrc/.zshrc 
+
+For .bashrc users
+```
+source ~/.bashrc 
+```
+For .zshrc users
+```
+source ~/.zshrc
+```
+DONE
