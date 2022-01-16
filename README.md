@@ -3,6 +3,20 @@
 
 This is a Simple Bash Script For Automating the Process of Generating Wordlists from various tool's like Gau, Waybackrobots, cewl etc..... Very Useful for Bug Bounty Hunters :)
 
+
+# How to use ?
+```
+git clone https://github.com/Imran407704/list-target.git
+```
+```
+cd list-target
+```
+```
+chmod +x list-target.sh
+```
+```
+./list-target.sh TARGET.TLD
+```
 ## Install this tools 1st
 
 [go-dork](https://github.com/dwisiswant0/go-dork)
