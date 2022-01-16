@@ -1,2 +1,3 @@
 # list-target
-This is a Simple Bash Script For Generating the Wordlist for Bug Bounty Hunters :)
+This is a Simple Bash Script For Automating the Process of Generating Wordlists from various tool's like Gau, Waybackrobots, cewl etc..... 
+Very Useful for Bug Bounty Hunters :)
